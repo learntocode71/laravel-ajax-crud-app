@@ -6,6 +6,8 @@
 composer install
 ```
 
+> **_NOTE:_** Replace your MySql configurations with existing
+
 ### Compiles amd hot-reloads for development
 
 ```
